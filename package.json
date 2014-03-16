@@ -1,0 +1,17 @@
+{
+  "name": "intercessor-example",
+  "version": "0.0.1",
+  "author": "Paul Nechifor <paul@nechifor.net> (http://nechifor.net/)",
+  "private": false,
+  "scripts": {
+    "build": "intercessor"
+  },
+  "dependencies": {
+    "intercessor": ">=0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paul-nechifor/intercessor-example"
+  },
+  "license": "MIT"
+}
