@@ -1,13 +1,13 @@
 {
   "name": "intercessor-example",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Paul Nechifor <paul@nechifor.net> (http://nechifor.net/)",
   "private": false,
   "scripts": {
     "build": "intercessor"
   },
   "dependencies": {
-    "intercessor": ">=0.0.1"
+    "intercessor": ">=0.0.3"
   },
   "repository": {
     "type": "git",

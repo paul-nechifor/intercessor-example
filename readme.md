@@ -2,7 +2,6 @@
 
 ## Install
 
-    npm install coffee-script -g
     npm install
 
 ## Build it
