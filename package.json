@@ -4,10 +4,11 @@
   "author": "Paul Nechifor <paul@nechifor.net> (http://nechifor.net/)",
   "scripts": {
     "build": "intercessor",
+    "up": "npm install && npm run build && npm run start",
     "start": "node build/app.js"
   },
   "dependencies": {
-    "intercessor": ">=0.2.3"
+    "intercessor": ">=0.3.2"
   },
   "repository": {
     "type": "git",
